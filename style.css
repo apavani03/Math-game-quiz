@@ -1,0 +1,27 @@
+body
+{
+background-image: url("https://thumbs.gfycat.com/DefiantUncommonGermanshorthairedpointer-size_restricted.gif");
+background-repeat:no-repeat;
+background-size: cover;
+}
+
+.div_1, .div_2
+{
+    background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+}
+#player1_type_name, #player2_type_name, #player1_name, #player2_name{
+
+    display: inline-block;
+	margin-left: 20px;
+}
+#output{
+	background: lightgreen;
+	border-radius: 10px;
+	border-top: 10px solid blueviolet;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
