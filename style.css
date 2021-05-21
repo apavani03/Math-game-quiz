@@ -25,3 +25,7 @@ background-size: cover;
 	float: none;
 	text-align: left;
 }
+h6, span{
+	color: azure;
+	font-size: 15px; 
+}
